@@ -86,7 +86,7 @@ class Event:
   """
 
   def __init__(self, date=None, title=None, people=None, sources=None, description=None):
-    self.date = date
+    self.date = parse_date(date)
     self.title = title
     self.people = people
     self.sources = sources

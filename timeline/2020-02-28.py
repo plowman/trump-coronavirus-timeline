@@ -1,4 +1,5 @@
 from models import Event, Source
+from timeline.shared_sources import COMPLETE_LIST_OF_TRUMP_DOWNPLAYING_CORONAVIRUS
 
 Event(
   date="2020-02-28",
@@ -42,5 +43,8 @@ Event(
   description="""
   Also at the South Carolina rally, Trump said "The Democrat policy of open borders is a direct threat to the health and
   well-being of all Americans. Now you see it with the coronavirus, you see it. You see it with the coronavirus."
-  """
+  """,
+  sources=[
+    COMPLETE_LIST_OF_TRUMP_DOWNPLAYING_CORONAVIRUS
+  ]
 )
