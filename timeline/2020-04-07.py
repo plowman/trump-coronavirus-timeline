@@ -23,3 +23,26 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-04-07",
+  title="Trump threatens to stop funding the WHO",
+  description="""
+  "We’re going to put a hold on money spent to the W.H.O. We’re going to put a very powerful hold on it and we’re going 
+  to see," Trump said during the daily coronavirus briefing at the White House. He added, "They called it wrong. They 
+  call it wrong. They really, they missed the call."
+  
+  The claim that "they missed the call" is obviously a lie. The WHO declared a “public health emergency of international
+  concern” weeks before Mr. Trump declared a national emergency.
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Trump Attacks W.H.O. Over Criticisms of U.S. Approach to Coronavirus",
+      publication="The New York Times",
+      published="2020-04-07",
+      url="https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html",
+      article_copy="./sources/2020-04-07-new-york-times-trump-attacks-who.pdf",
+    ),
+  ],
+)

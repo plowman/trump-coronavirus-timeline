@@ -197,3 +197,13 @@ Trump removed Glenn Fine, the chairman of the federal panel Congress created to 
   know, reports of bias and when we have different things coming in. I don’t know Fine. I don’t think I ever met Fine.”
 
 Source: [The Washington Post](https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html) on Apr 7, 2020.
+
+#### Trump threatens to stop funding the WHO
+"We’re going to put a hold on money spent to the W.H.O. We’re going to put a very powerful hold on it and we’re going 
+  to see," Trump said during the daily coronavirus briefing at the White House. He added, "They called it wrong. They 
+  call it wrong. They really, they missed the call."
+  
+  The claim that "they missed the call" is obviously a lie. The WHO declared a “public health emergency of international
+  concern” weeks before Mr. Trump declared a national emergency.
+
+Source: [The New York Times](https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html) on Apr 7, 2020.
