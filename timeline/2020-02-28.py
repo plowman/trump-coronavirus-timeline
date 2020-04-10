@@ -32,7 +32,7 @@ that we went early we went early we could have had a lot more than that."
       publication="Global News on YouTube",
       published="2020-02-28",
       url="https://youtu.be/NbwCjL7HC1c?t=293",
-      article_copy="./sources/2020-02-28-global-news-youtube-charleston-trump-rally.jpg",
+      article_copy="./sources/2020-02-28-global-news-youtube-charleston-trump-rally.png",
     ),
   ],
 )

@@ -39,7 +39,7 @@ class Source:
   The full URL of the news article, e.g. "https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html"
   """
 
-  pdf = None
+  article_copy = None
   """
   The local path to a PDF copy of the same article, e.g. "./sources/2018-05-10-washington-post-top-white-house.pdf"
   
@@ -51,7 +51,7 @@ class Source:
     self.publication = publication
     self.published = parse_date(published)
     self.url = url
-    self.pdf = article_copy
+    self.article_copy = article_copy
 
 
 class Person:
