@@ -42,6 +42,8 @@ def generate_markdown():
 {event.description}
 
 Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
+
+
 """
 
   scripts_folder = os.path.dirname(__file__)

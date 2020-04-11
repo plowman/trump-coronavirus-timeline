@@ -10,6 +10,8 @@ Trump removed Timothy Ziemer from the National Security Council. Ziemer was the 
   ever replaced.
 
 Source: [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/10/top-white-house-official-in-charge-of-pandemic-response-exits-abruptly/) on May 10, 2018.
+
+
 ### Sep 30, 2019
 #### Trump ends Coronavirus early detection program
 The project, launched by the U.S. Agency for International Development in 2009, identified 1,200 different 
@@ -18,6 +20,8 @@ The project, launched by the U.S. Agency for International Development in 2009, 
   SARS-CoV-2, the new coronavirus that causes COVID-19.
 
 Source: [Los Angeles Times](https://www.latimes.com/science/story/2020-04-02/coronavirus-trump-pandemic-program-viruses-detection) on Apr 2, 2020.
+
+
 ### Jan 1, 2020
 #### US intelligence agencies begin warning about coronavirus
 U.S. intelligence agencies were issuing ominous, classified warnings in January and February about the global danger 
@@ -25,6 +29,8 @@ U.S. intelligence agencies were issuing ominous, classified warnings in January 
   might have slowed the spread of the pathogen, according to U.S. officials familiar with spy agency reporting.
 
 Source: [The Washington Post](https://www.washingtonpost.com/national-security/us-intelligence-reports-from-january-and-february-warned-about-a-likely-pandemic/2020/03/20/299d8cda-6ad5-11ea-b5f1-a5a804158597_story.html) on Mar 20, 2020.
+
+
 ### Jan 22, 2020
 #### Trump's first comments on Coronavirus: 'we have it totally under control. ... It’s going to be just fine.'
 President Trump made his first public comments about the coronavirus in a TV interview from Davos with CNBC’s Joe 
@@ -35,6 +41,8 @@ President Trump made his first public comments about the coronavirus in a TV int
   it under control. It’s going to be just fine.”
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+
+
 ### Jan 29, 2020
 #### Navarro sends memo warning 543,000 Americans could die
 Trump economic advisor Peter Navarro circulated in the White House warning that there would be a dire human and 
@@ -44,17 +52,23 @@ Trump economic advisor Peter Navarro circulated in the White House warning that 
   It is unclear whether the president ever read this memo.
 
 Source: [Axios](https://www.axios.com/exclusive-navarro-deaths-coronavirus-memos-january-da3f08fb-dce1-4f69-89b5-ea048f8382a9.html) on Apr 7, 2020.
+
+
 ### Jan 30, 2020
 #### Trump says 'We think it’s going to have a very good ending for it. So that I can assure you.'
 That's the whole quote. I haven't dug into the original source yet.
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+
+
 ### Feb 5, 2020
 #### CDC begins distributing flawed test kits to labs around the country
 Although we did not know it at the time, we would later learn that the CDC tests suffered from a technical flaw and 
   didn't produce reliable results.
 
 Source: [CDC](https://www.cdc.gov/media/releases/2020/p0206-coronavirus-diagnostic-test-kits.html) on Feb 6, 2020.
+
+
 ### Feb 10, 2020
 #### Trump proposes 16 percent cut to CDC
 The Trump budget this year included a 16 percent cut to the CDC. It appears his budget tries to cut the CDC budget 
@@ -62,10 +76,14 @@ The Trump budget this year included a 16 percent cut to the CDC. It appears his 
 
 Source: [The Washington Post](https://www.washingtonpost.com/science/trump-budget-cuts-funding-for-health-science-environment-agencies/2020/02/10/9c8dd784-4c2d-11ea-b721-9f4cdc90bc1c_story.html) on Feb 10, 2020.
 
+
+
 #### Trump says, 'I think the virus is going to be — it’s going to be fine.'
 That's the whole quote. I haven't dug into the original source yet.
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+
+
 ### Feb 19, 2020
 #### Trump says, 'I think it’s going to work out fine'
 The full quote is “I think it’s going to work out fine. I think when we get into April, in the warmer weather, that 
@@ -73,6 +91,8 @@ The full quote is “I think it’s going to work out fine. I think when we get 
   out fine.”
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+
+
 ### Feb 23, 2020
 #### Navarro sends second dire memo, warns 1-2 Million could die, warns of PPE and ventilator needs
 Trump economic advisor Peter Navarro circulated a second memo, this time to officials throughout the NSC.
@@ -86,11 +106,15 @@ Trump economic advisor Peter Navarro circulated a second memo, this time to offi
   It then asked for $3 Billion to support efforts at prevention, treatment, inoculation and diagnostics.
 
 Source: [Axios](https://www.axios.com/exclusive-navarro-deaths-coronavirus-memos-january-da3f08fb-dce1-4f69-89b5-ea048f8382a9.html) on Apr 7, 2020.
+
+
 ### Feb 24, 2020
 #### Trump says coronavirus 'very much under control', stock market is 'starting to look very good to me.'
 A day after Navarro warned 1-2 million people in the US could die, Trump tweeted his regular dose of nonsense.
 
 Source: [Axios](https://www.axios.com/exclusive-navarro-deaths-coronavirus-memos-january-da3f08fb-dce1-4f69-89b5-ea048f8382a9.html) on Apr 7, 2020.
+
+
 ### Feb 25, 2020
 #### CDC official warns public about coronavirus and Trump complained it was scaring the stock market
 On Feb. 25, Nancy Messonnier, a senior CDC official, sounded perhaps the most significant public alarm to that point, 
@@ -99,6 +123,8 @@ On Feb. 25, Nancy Messonnier, a senior CDC official, sounded perhaps the most si
   that Messonnier was scaring the stock markets, according to two senior administration officials.
 
 Source: [The Washington Post](https://www.washingtonpost.com/national-security/us-intelligence-reports-from-january-and-february-warned-about-a-likely-pandemic/2020/03/20/299d8cda-6ad5-11ea-b5f1-a5a804158597_story.html) on Mar 20, 2020.
+
+
 
 #### Dr. Helen Chu defies government order to test for the coronavirus and discovers it's already in the US
 Dr. Chu and her colleagues had been gathering nasal swabs from people in the Seattle area experiencing flu symptoms.
@@ -110,12 +136,16 @@ Dr. Chu and her colleagues had been gathering nasal swabs from people in the Sea
   in the US.
 
 Source: [The New York Times](https://www.nytimes.com/2020/03/10/us/coronavirus-testing-delays.html) on Mar 10, 2020.
+
+
 ### Feb 26, 2020
 #### Trump predicts we'll covid cases within a couple days are 'going to be down to close to zero'
 Trump says, "When you have 15 people — and the 15 within a couple of days is going to be down to close to zero — 
   that’s a pretty good job we’ve done."
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+
+
 ### Feb 27, 2020
 #### Trump says coronavirus will disappear: 'One day, it’s like a miracle, it will disappear.'
 Trump said: "It's going to disappear. One day -- it's like a miracle -- it will disappear. And from our shores, we 
@@ -123,6 +153,8 @@ Trump said: "It's going to disappear. One day -- it's like a miracle -- it will 
   knows. The fact is, the greatest experts -- I've spoken to them all. Nobody really knows."
 
 Source: [The New York Times](https://www.nytimes.com/2020/03/15/opinion/trump-coronavirus.html) on Mar 15, 2020.
+
+
 ### Feb 28, 2020
 #### Trump says "Democrats are politicizing the Coronavirus", says, "this is their new hoax".
 A lot of Trumpkins are debating this quote now, but he clearly says the coronavirus is "their new hoax" in the same way
@@ -147,22 +179,30 @@ that we went early we went early we could have had a lot more than that."
 
 Source: [Global News on YouTube](https://youtu.be/NbwCjL7HC1c?t=293) on Feb 28, 2020.
 
+
+
 #### Trump blames covid outbreak on 'Democrat policy of open borders'.
 Also at the South Carolina rally, Trump said "The Democrat policy of open borders is a direct threat to the health and
   well-being of all Americans. Now you see it with the coronavirus, you see it. You see it with the coronavirus."
 
 Source: [The New York Times](https://www.nytimes.com/2020/03/15/opinion/trump-coronavirus.html) on Mar 15, 2020.
+
+
 ### Feb 29, 2020
 #### WHO has shipped tests to 60 countries, and the US is not among them.
 Three weeks after releasing flawed CDC tests, the US has still not requested the WHO tests. The bottleneck is clearly
   not the WHO because at this point the WHO has sent tests to 60 countries.
 
 Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
+
+
 ### Mar 11, 2020
 #### World Health Organization declares covid-19 a pandemic
 The director of the WHO declared that they consider covid-19 to be a pandemic.
 
 Source: [World Health Organization](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020) on Mar 11, 2020.
+
+
 ### Mar 12, 2020
 #### Trump adds Jared Kushner to the Coronavirus response team
 From the attached article, "Kushner was initially tapped to join the coronavirus response by Trump on March 12, when
@@ -170,6 +210,8 @@ From the attached article, "Kushner was initially tapped to join the coronavirus
   companies."
 
 Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-coronavirus-response-160553) on Apr 1, 2020.
+
+
 ### Mar 16, 2020
 #### For ventilators, Trump tells governors 'Try getting it yourselves'
 “Respirators, ventilators, all of the equipment — try getting it yourselves,” he said, adding “We will be backing you,
@@ -180,12 +222,16 @@ Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-corona
   actually getting states the equipment they need.
 
 Source: [The New York Times](https://www.nytimes.com/2020/03/16/us/politics/trump-coronavirus-respirators.html) on Mar 16, 2020.
+
+
 ### Apr 1, 2020
 #### Trump decides not to open Obamacare markets for enrollment
 Trump has the power to open enrollment in Obamacare so that people without health insurance could get it more easily,
   including those who lost their coverage with their job. He chose not to. No explanation was given.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/01/upshot/obamacare-markets-coronavirus-trump.html) on Apr 1, 2020.
+
+
 ### Apr 5, 2020
 #### Trump again pushes Hydroxychloroquine, saying 'What do you have to lose?'
 “If it does work, it would be a shame we did not do it early,” Mr. Trump said, noting the federal government had 
@@ -199,6 +245,8 @@ Source: [The New York Times](https://www.nytimes.com/2020/04/01/upshot/obamacare
   to just take it and not worry about it.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html) on Apr 5, 2020.
+
+
 ### Apr 6, 2020
 #### FEMA is seizing coronavirus supplies ordered by hospitals and states
 Despite directing states and hospitals to get their own supplies however they can, the federal government has at the
@@ -210,6 +258,8 @@ Despite directing states and hospitals to get their own supplies however they ca
   It is not at all clear how this equipment is then being routed to various states.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html) on Apr 6, 2020.
+
+
 ### Apr 7, 2020
 #### Trump removes inspector general who would oversee $2 trillion stimulus spending
 Trump removed Glenn Fine, the chairman of the federal panel Congress created to oversee his administration’s 
@@ -221,6 +271,8 @@ Trump removed Glenn Fine, the chairman of the federal panel Congress created to 
 
 Source: [The Washington Post](https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html) on Apr 7, 2020.
 
+
+
 #### Trump threatens to stop funding the WHO
 "We’re going to put a hold on money spent to the W.H.O. We’re going to put a very powerful hold on it and we’re going 
   to see," Trump said during the daily coronavirus briefing at the White House. He added, "They called it wrong. They 
@@ -230,3 +282,5 @@ Source: [The Washington Post](https://www.washingtonpost.com/national-security/t
   concern” weeks before Mr. Trump declared a national emergency.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html) on Apr 7, 2020.
+
+
