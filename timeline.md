@@ -199,6 +199,17 @@ Source: [The New York Times](https://www.nytimes.com/2020/04/01/upshot/obamacare
   to just take it and not worry about it.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html) on Apr 5, 2020.
+### Apr 6, 2020
+#### FEMA is seizing coronavirus supplies ordered by hospitals and states
+Despite directing states and hospitals to get their own supplies however they can, the federal government has at the
+  same time been seizing the medical supplies that states have ordered.
+  
+  Multiple governors and hospitals in multiple states are reporting that FEMA has commandeered shipments of masks, 
+  ventilators, thermometers, and other medical equipment that had been ordered by various states and hospitals.
+  
+  It is not at all clear how this equipment is then being routed to various states.
+
+Source: [The New York Times](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html) on Apr 6, 2020.
 ### Apr 7, 2020
 #### Trump removes inspector general who would oversee $2 trillion stimulus spending
 Trump removed Glenn Fine, the chairman of the federal panel Congress created to oversee his administration’s 

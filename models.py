@@ -80,16 +80,22 @@ class Event:
   A list of people involved. For now, last names are good enough.
   """
 
+  orgs = []
+  """
+  A list of organizations like the CDC which are involved.
+  """
+
   sources = None
   """
   A list of sources which confirm the information in the title and description.
   """
 
-  def __init__(self, date=None, title=None, people=None, sources=None, description=None):
+  def __init__(self, date=None, title=None, people=None, sources=None, description=None, orgs=None):
     self.date = parse_date(date)
     self.title = title
-    self.people = people
-    self.sources = sources
+    self.people = people or []
+    self.orgs = orgs or []
+    self.sources = sources or []
     self.description = description
 
     ALL_EVENTS.append(self)
