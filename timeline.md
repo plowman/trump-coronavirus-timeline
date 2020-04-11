@@ -49,6 +49,12 @@ Source: [Axios](https://www.axios.com/exclusive-navarro-deaths-coronavirus-memos
 That's the whole quote. I haven't dug into the original source yet.
 
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+### Feb 5, 2020
+#### CDC begins distributing flawed test kits to labs around the country
+Although we did not know it at the time, we would later learn that the CDC tests suffered from a technical flaw and 
+  didn't produce reliable results.
+
+Source: [CDC](https://www.cdc.gov/media/releases/2020/p0206-coronavirus-diagnostic-test-kits.html) on Feb 6, 2020.
 ### Feb 10, 2020
 #### Trump proposes 16 percent cut to CDC
 The Trump budget this year included a 16 percent cut to the CDC. It appears his budget tries to cut the CDC budget 
@@ -146,6 +152,12 @@ Also at the South Carolina rally, Trump said "The Democrat policy of open border
   well-being of all Americans. Now you see it with the coronavirus, you see it. You see it with the coronavirus."
 
 Source: [The New York Times](https://www.nytimes.com/2020/03/15/opinion/trump-coronavirus.html) on Mar 15, 2020.
+### Feb 29, 2020
+#### WHO has shipped tests to 60 countries, and the US is not among them.
+Three weeks after releasing flawed CDC tests, the US has still not requested the WHO tests. The bottleneck is clearly
+  not the WHO because at this point the WHO has sent tests to 60 countries.
+
+Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
 ### Mar 11, 2020
 #### World Health Organization declares covid-19 a pandemic
 The director of the WHO declared that they consider covid-19 to be a pandemic.
