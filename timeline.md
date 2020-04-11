@@ -224,6 +224,19 @@ Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-corona
 Source: [The New York Times](https://www.nytimes.com/2020/03/16/us/politics/trump-coronavirus-respirators.html) on Mar 16, 2020.
 
 
+### Mar 29, 2020
+#### Trump accuses hospitals of stealing masks
+Trump said it doesn't make sense that a hospital would suddenly need way more masks. Instead of learning why you need
+  more masks to treat covid patients, he instead amplified a conspiracy theory that the hospitals have been stealing 
+  them.
+
+  The quote:
+  > Something is going on, and you ought to look into it as reporters. Where are the masks going? Are they going out the
+  > back door? How do you go from 10,000 to 300,000? And we have that in a lot of different places.
+
+Source: [Vox](https://www.vox.com/policy-and-politics/2020/3/30/21199538/coronavirus-mask-trump-new-york-hospital-stealing) on Mar 30, 2020.
+
+
 ### Apr 1, 2020
 #### Trump decides not to open Obamacare markets for enrollment
 Trump has the power to open enrollment in Obamacare so that people without health insurance could get it more easily,
