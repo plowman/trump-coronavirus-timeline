@@ -232,6 +232,18 @@ Trump has the power to open enrollment in Obamacare so that people without healt
 Source: [The New York Times](https://www.nytimes.com/2020/04/01/upshot/obamacare-markets-coronavirus-trump.html) on Apr 1, 2020.
 
 
+### Apr 2, 2020
+#### White House blocks health officials from CNN in retaliation for coverage
+On April 2nd, Pence began blocking US health officials like Dr. Fauci from appearing on CNN. "When you guys cover the 
+  briefings with the health officials then you can expect them back on your air," a Pence spokesperson told CNN. CNN had
+  only been showing the Trump Q&A portion because the whole thing was very long and full of, well, lies.
+  
+  On April 8th, CNN showed the full briefing, including the part with Pence. On April 9th, health officials were once 
+  again allowed on CNN.
+
+Source: [CNN](https://www.cnn.com/2020/04/09/media/pence-office-tv-bookings-coronavirus/index.html) on Apr 9, 2020.
+
+
 ### Apr 5, 2020
 #### Trump again pushes Hydroxychloroquine, saying 'What do you have to lose?'
 “If it does work, it would be a shame we did not do it early,” Mr. Trump said, noting the federal government had 
