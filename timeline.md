@@ -224,6 +224,21 @@ Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-corona
 Source: [The New York Times](https://www.nytimes.com/2020/03/16/us/politics/trump-coronavirus-respirators.html) on Mar 16, 2020.
 
 
+### Mar 24, 2020
+#### Trump says of providing aid to states 'it’s a two-way street. They have to treat us well also.'
+As usual, the full quote is extremely dense Trump gibberish, so it's hard to know exactly what he's saying. However,
+  there is no other plausible interpretation of "They have to treat us well also" in this context except that it will be
+  worse for states if they don't.
+  
+  The Trump quote is this:
+  > No, I think we’re doing very well. But, you know, it’s a two-way street. They have to treat us well also. They can’t
+  say, “Oh gee, we should get this, we should get that.” We’re doing a great job, like in New York, where we’re 
+  building, as I said, four hospitals, four medic — we’re literally building hospitals and medical centers. And 
+  then I hear that, you know, there’s a problem with ventilators.
+
+Source: [Vox](https://www.vox.com/2020/3/25/21193803/trump-to-governors-coronavirus-help-ventilators-cuomo) on Mar 25, 2020.
+
+
 ### Mar 29, 2020
 #### Trump accuses hospitals of stealing masks
 Trump said it doesn't make sense that a hospital would suddenly need way more masks. Instead of learning why you need
