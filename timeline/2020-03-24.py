@@ -10,9 +10,9 @@ Event(
   
   The Trump quote is this:
   > No, I think we’re doing very well. But, you know, it’s a two-way street. They have to treat us well also. They can’t
-  > say, “Oh gee, we should get this, we should get that.” We’re doing a great job, like in New York, where we’re 
-  > building, as I said, four hospitals, four medic — we’re literally building hospitals and medical centers. And 
-  > then I hear that, you know, there’s a problem with ventilators.
+  say, “Oh gee, we should get this, we should get that.” We’re doing a great job, like in New York, where we’re 
+  building, as I said, four hospitals, four medic — we’re literally building hospitals and medical centers. And 
+  then I hear that, you know, there’s a problem with ventilators.
   """,
   people=["Trump"],
   sources=[

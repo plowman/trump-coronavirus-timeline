@@ -196,6 +196,14 @@ Three weeks after releasing flawed CDC tests, the US has still not requested the
 Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
 
 
+### Mar 8, 2020
+#### Trump plays golf
+On March 7th and 8th, Trump played golf. During that time cases in the US would nearly double, from 233 to 433, and
+  deaths would increase from 12 to 17.
+
+Source: [Slate](https://slate.com/news-and-politics/2020/03/trump-plays-golf-coronavirus-cases-surge.html) on Mar 9, 2020.
+
+
 ### Mar 11, 2020
 #### World Health Organization declares covid-19 a pandemic
 The director of the WHO declared that they consider covid-19 to be a pandemic.
