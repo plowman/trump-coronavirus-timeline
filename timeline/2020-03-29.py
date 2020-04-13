@@ -23,3 +23,24 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-03-29",
+  title="Trump brags about the ratings of his daily briefings",
+  description="""  
+  His full tweet is this:
+  > Because the “Ratings” of my News Conferences etc. are so high, “Bachelor finale, Monday Night Football type numbers”
+    according to the @nytimes, the Lamestream Media is going CRAZY. “Trump is reaching too many people, we must stop 
+    him.” said one lunatic. See you at 5:00 P.M.!
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Donald J. Trump on Twitter",
+      publication="Twitter",
+      published="2020-03-29",
+      url="https://twitter.com/realdonaldtrump/status/1244309931874017280",
+      article_copy="sources/2020-03-29-twitter-trump-tweet-about-ratings.pdf",
+    ),
+  ],
+)

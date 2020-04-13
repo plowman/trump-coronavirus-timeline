@@ -288,6 +288,16 @@ Trump said it doesn't make sense that a hospital would suddenly need way more ma
 Source: [Vox](https://www.vox.com/policy-and-politics/2020/3/30/21199538/coronavirus-mask-trump-new-york-hospital-stealing) on Mar 30, 2020.
 
 
+
+#### Trump brags about the ratings of his daily briefings
+His full tweet is this:
+  > Because the “Ratings” of my News Conferences etc. are so high, “Bachelor finale, Monday Night Football type numbers”
+    according to the @nytimes, the Lamestream Media is going CRAZY. “Trump is reaching too many people, we must stop 
+    him.” said one lunatic. See you at 5:00 P.M.!
+
+Source: [Twitter](https://twitter.com/realdonaldtrump/status/1244309931874017280) on Mar 29, 2020.
+
+
 ### Apr 1, 2020
 #### Trump decides not to open Obamacare markets for enrollment
 Trump has the power to open enrollment in Obamacare so that people without health insurance could get it more easily,
