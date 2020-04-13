@@ -1,4 +1,5 @@
 from models import Event, Source
+from timeline.shared_sources import ECDC_CASES_AND_DEATHS_BY_COUNTRY
 
 Event(
   date="2020-04-07",
@@ -45,4 +46,13 @@ Event(
       article_copy="./sources/2020-04-07-new-york-times-trump-attacks-who.pdf",
     ),
   ],
+)
+
+Event(
+  date="2020-04-07",
+  title="US passes 10,000 deaths",
+  description="""
+  US has 10,989 deaths and 368,196 cases in total.
+  """,
+  sources=[ECDC_CASES_AND_DEATHS_BY_COUNTRY],
 )

@@ -196,6 +196,20 @@ Three weeks after releasing flawed CDC tests, the US has still not requested the
 Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
 
 
+### Mar 1, 2020
+#### US has first death
+US has 1 death and 69 cases.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+
+
+### Mar 5, 2020
+#### US passes 10 deaths
+US has 11 deaths and 159 cases in total.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+
+
 ### Mar 8, 2020
 #### Trump plays golf
 On March 7th and 8th, Trump played golf. During that time cases in the US would nearly double, from 233 to 433, and
@@ -232,6 +246,13 @@ Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-corona
 Source: [The New York Times](https://www.nytimes.com/2020/03/16/us/politics/trump-coronavirus-respirators.html) on Mar 16, 2020.
 
 
+### Mar 18, 2020
+#### US passes 100 deaths
+US has 108 deaths and 6,427 cases in total.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+
+
 ### Mar 24, 2020
 #### Trump says of providing aid to states 'it’s a two-way street. They have to treat us well also.'
 As usual, the full quote is extremely dense Trump gibberish, so it's hard to know exactly what he's saying. However,
@@ -245,6 +266,13 @@ As usual, the full quote is extremely dense Trump gibberish, so it's hard to kno
   then I hear that, you know, there’s a problem with ventilators.
 
 Source: [Vox](https://www.vox.com/2020/3/25/21193803/trump-to-governors-coronavirus-help-ventilators-cuomo) on Mar 25, 2020.
+
+
+### Mar 26, 2020
+#### US passes 1,000 deaths
+US has 1,050 deaths and 69,194 cases in total.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
 
 
 ### Mar 29, 2020
@@ -330,5 +358,12 @@ Source: [The Washington Post](https://www.washingtonpost.com/national-security/t
   concern” weeks before Mr. Trump declared a national emergency.
 
 Source: [The New York Times](https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html) on Apr 7, 2020.
+
+
+
+#### US passes 10,000 deaths
+US has 10,989 deaths and 368,196 cases in total.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
 
 

@@ -34,3 +34,11 @@ COMPLETE_LIST_OF_TRUMP_DOWNPLAYING_CORONAVIRUS = Source(
   url="https://www.nytimes.com/2020/03/15/opinion/trump-coronavirus.html",
   article_copy="./sources/2020-03-15-new-york-times-a-complete-list-of-trump-downlplaying-coronavirus.pdf"
 )
+
+ECDC_CASES_AND_DEATHS_BY_COUNTRY = Source(
+  title="Download today’s data on the geographic distribution of COVID-19 cases worldwide",
+  published="2020-04-12",
+  publication="ECDC",
+  url="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide",
+  article_copy="sources/2020-04-12-ecdc-covid-19-geographical-distribution.xlsx"
+)
