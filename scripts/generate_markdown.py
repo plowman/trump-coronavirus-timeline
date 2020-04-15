@@ -52,5 +52,7 @@ Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
   with open(timeline_path, mode='w+') as timeline_file:
     timeline_file.write(timeline_markdown)
 
+  print(f"Finished writing data for {len(ALL_EVENTS)} events.")
+
 
 generate_markdown()
