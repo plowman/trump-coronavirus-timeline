@@ -118,6 +118,14 @@ That's the whole quote. I haven't dug into the original source yet.
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
 
 
+### Feb 12, 2020
+#### CDC admits its testing kits are flawed
+One week after first shipping the tests to labs in the US and around the world, the CDC confirmed its test doesn't 
+  work. Our ability to understand how the virus is spreading in the US is severely limited.
+
+Source: [The New York Times](https://www.nytimes.com/2020/02/12/health/coronavirus-test-kits-cdc.html) on Feb 12, 2020.
+
+
 ### Feb 19, 2020
 #### Trump says, 'I think it’s going to work out fine'
 The full quote is “I think it’s going to work out fine. I think when we get into April, in the warmer weather, that 
