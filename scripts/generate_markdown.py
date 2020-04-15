@@ -27,7 +27,7 @@ def generate_markdown():
   previous_date = None
   for event in sorted(ALL_EVENTS, key=lambda x: x.date):
     if event.date != previous_date:
-      timeline_markdown += f"### {format_date(event.date)}"
+      timeline_markdown += f"## {format_date(event.date)}"
       previous_date = event.date
 
     for source in event.sources:
@@ -38,7 +38,7 @@ def generate_markdown():
     source = event.sources[0]
     event.description = event.description.strip()
     timeline_markdown += f"""
-#### {event.title}
+### {event.title}
 {event.description}
 
 Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
