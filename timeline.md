@@ -4,10 +4,7 @@
 ### Trump fires official in charge of Pandemic response, Timothy Ziemer
 Trump removed Timothy Ziemer from the National Security Council. Ziemer was the Senior Director for Global Health 
   Security and Biothreats. His responsibilities included preparedness against infectious diseases, including leading the
-  response in case of a pandemic.
-  
-  Ziemer's departure follows the earlier departure of homeland security Tom Bossert. Neither Ziemer nor Bossert were 
-  ever replaced.
+  response in case of a pandemic. He was never replaced.
 
 Source: [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/10/top-white-house-official-in-charge-of-pandemic-response-exits-abruptly/) on May 10, 2018.
 

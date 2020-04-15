@@ -6,10 +6,7 @@ Event(
   description="""
   Trump removed Timothy Ziemer from the National Security Council. Ziemer was the Senior Director for Global Health 
   Security and Biothreats. His responsibilities included preparedness against infectious diseases, including leading the
-  response in case of a pandemic.
-  
-  Ziemer's departure follows the earlier departure of homeland security Tom Bossert. Neither Ziemer nor Bossert were 
-  ever replaced.
+  response in case of a pandemic. He was never replaced.
   """,
   people=["Trump", "Bolton", "Ziemer"],
   sources=[
