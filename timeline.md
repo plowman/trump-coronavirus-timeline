@@ -77,6 +77,24 @@ That's the whole quote. I haven't dug into the original source yet.
 Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
 
 
+### Feb 2, 2020
+#### China travel ban begins, does not change entry for US citizens
+The travel ban prevents travel to the US if you've been to mainland China in the past 14 days. However, the ban does 
+  not apply to US citizens and their families. As a result, 40,000 people have traveled from China to the US from when 
+  the ban began until April 4th.
+  
+  For those 40,000 there was little to no actual preventive measures. As far as I can tell, nobody was tested for covid 
+  and nobody was required to quarantine. Occasionally your temperature would be taken at an airport, and usually you 
+  would be asked to stay home for 14 days.
+  
+  From the New York Times article:
+  > Re-entry to the US during this time is very lax. A traveler from Beijing going to Seattle was asked if he had a
+    temperature and whether he had been to Wuhan. They gave him a card requesting he stay home for two weeks. Nobody 
+    ever followed up.
+
+Source: [The New York Times](https://www.nytimes.com/2020/04/04/us/coronavirus-china-travel-restrictions.html) on Apr 4, 2020.
+
+
 ### Feb 5, 2020
 #### CDC begins distributing flawed test kits to labs around the country
 Although we did not know it at the time, we would later learn that the CDC tests suffered from a technical flaw and 
