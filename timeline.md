@@ -460,3 +460,12 @@ Trump has ordered the Treasury department to tell the IRS that his name should a
 Source: [The Washington Post](https://www.washingtonpost.com/politics/coming-to-your-1200-relief-check-donald-j-trumps-name/2020/04/14/071016c2-7e82-11ea-8013-1b6da0e4a2b7_story.html) on Apr 14, 2020.
 
 
+## Apr 14, 2020
+### Trump announces he will halt WHO funding
+In an effort to shift blame away from himself, Trump criticized the WHO and said he will halt funding.
+  
+  “So much death has been caused by their mistakes,” Trump said, repeating the criticisms of his own administration.
+
+Source: [The New York Times](https://www.nytimes.com/2020/04/14/us/politics/coronavirus-trump-who-funding.html) on Apr 14, 2020.
+
+
