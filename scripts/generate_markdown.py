@@ -39,9 +39,13 @@ def generate_markdown():
     event.description = event.description.strip()
     timeline_markdown += f"""
 ### {event.title}
+<details>
+  <summary>...</summary>
+
 {event.description}
 
 Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
+</details>
 
 
 """
