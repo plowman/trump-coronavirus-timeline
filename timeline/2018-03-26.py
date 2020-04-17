@@ -9,7 +9,8 @@ Event(
   However, it's hard not to wonder if someone with experience in government could have done better. For example, the 5
   previous CDC directors all had experience in government.
   """,
-  people=[""],
+  people=["Robert Redfield"],
+  orgs=["CDC"],
   sources=[
     Source(
       title="AIDS Researcher Robert R. Redfield Named to Lead the C.D.C.",
