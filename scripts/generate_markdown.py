@@ -1,10 +1,22 @@
 import os
 import importlib
+import re
 
 from models import ALL_EVENTS
 
 SCRIPTS_FOLDER = os.path.dirname(__file__)
 PROJECT_FOLDER = os.path.dirname(SCRIPTS_FOLDER)
+
+DATE_REGEX = re.compile(r'date="([0-9]{4}-[0-9]{2}-[0-9]{2})"')
+
+
+def check_date_fields(file_path):
+  expected_date = os.path.split(file_path)[-1].replace('.py', '')
+  with open(file_path) as file:
+    date_matches = DATE_REGEX.findall(file.read())
+    for date_match in date_matches:
+      if date_match != expected_date:
+        raise Exception(f"ERROR: Event date=\"{date_match}\" != \"{expected_date}\" in file {file_path}")
 
 
 def import_all_events():
@@ -12,6 +24,7 @@ def import_all_events():
 
   for file in os.listdir(timeline_folder):
     if file.startswith('20') and file.endswith('.py'):
+      check_date_fields(os.path.join(timeline_folder, file))
       file = file.replace('.py', '')
       importlib.import_module(f'timeline.{file}')
 
@@ -42,9 +55,9 @@ def generate_markdown():
 <details>
   <summary>...</summary>
 
-{event.description}
+  {event.description}
 
-Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
+  Source: [{source.publication}]({source.url}) on {format_date(source.published)}.
 </details>
 
 

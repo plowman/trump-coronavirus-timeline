@@ -1,7 +1,7 @@
 from models import Event, Source
 
 Event(
-  date="2020-03-26",
+  date="2018-03-26",
   title="Robert Redfield, who has never worked in government, becomes CDC director",
   description="""
   How hard could it be, right? Seriously though, in his defense, he has done some great public health work on AIDS. 
