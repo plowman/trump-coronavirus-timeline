@@ -302,6 +302,22 @@ From the attached article, "Kushner was initially tapped to join the coronavirus
 Source: [Politico](https://www.politico.com/news/2020/04/01/jared-kushner-coronavirus-response-160553) on Apr 1, 2020.
 
 
+## Mar 13, 2020
+### Trump says 'I don't take responsibility at all' for the slowness to ramp up testing
+Here is the full question:
+  > Dr. Fauci said earlier this week that the lag in testing was in fact a failing do you 
+  take responsibility for that? And when can you guarantee that every single American who needs a test will be able to 
+  have a test what's the date of that?
+  
+  And his response was:
+  > Yeah no I don't take responsibility at all because we were given a a set of circumstances and we were given rules 
+  regulations and specifications from a different time. [... long meandering nonsense]
+  
+  It will not surprise you to learn that there was no mythical Obama regulations that slowed anyone down.
+
+Source: [The New York Times](https://www.nytimes.com/2020/03/13/us/politics/fact-check-trump-coronavirus.html) on Mar 13, 2020.
+
+
 ## Mar 16, 2020
 ### For ventilators, Trump tells governors 'Try getting it yourselves'
 “Respirators, ventilators, all of the equipment — try getting it yourselves,” he said, adding “We will be backing you,
