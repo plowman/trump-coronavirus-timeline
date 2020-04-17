@@ -32,3 +32,32 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-03-24",
+  title="Trump wants country ‘opened up and raring to go’ by Easter",
+  description="""
+  His exact quote was,
+  > I would love to have the country opened up and just er raring to go by Easter.
+  
+  As if trying to out-do himself, he added,
+  > We lose thousands and thousands of people a year to the flu, but we don’t turn the country off. We lose much more 
+  than that to automobile accidents. We don’t call the automobile companies and say, ‘Stop making automobiles.’
+  
+  Finally, he said,
+  > We’re all working very hard to make that a reality. Easter is a very special day for a lot of reasons. What a great 
+  timeline that would be.
+  
+  Unfortunately, no journalist asked him to enumerate any of the reasons that Easter is a "special day." 
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Trump wants U.S. economy ‘opened up and raring to go’ by Easter",
+      publication="The Washington Post",
+      published="2020-03-24",
+      url="https://www.washingtonpost.com/health/trump-wants-us-economy-opened-up-and-raring-to-go-by-easter/2020/03/24/dced0a12-6d65-11ea-b148-e4ce3fbd85b5_story.html",
+      article_copy="sources/2020-03-24-washington-post-trump-raring-to-go-by-easter.pdf",
+    ),
+  ],
+)
