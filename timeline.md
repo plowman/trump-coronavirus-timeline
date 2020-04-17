@@ -488,6 +488,28 @@ Source: [Vox](https://www.vox.com/2020/3/25/21193803/trump-to-governors-coronavi
 </details>
 
 
+
+### Trump wants country ‘opened up and raring to go’ by Easter
+<details>
+  <summary>...</summary>
+
+His exact quote was,
+  > I would love to have the country opened up and just er raring to go by Easter.
+  
+  As if trying to out-do himself, he added,
+  > We lose thousands and thousands of people a year to the flu, but we don’t turn the country off. We lose much more 
+  than that to automobile accidents. We don’t call the automobile companies and say, ‘Stop making automobiles.’
+  
+  Finally, he said,
+  > We’re all working very hard to make that a reality. Easter is a very special day for a lot of reasons. What a great 
+  timeline that would be.
+  
+  Unfortunately, no journalist asked him to enumerate any of the reasons that Easter is a "special day."
+
+Source: [The Washington Post](https://www.washingtonpost.com/health/trump-wants-us-economy-opened-up-and-raring-to-go-by-easter/2020/03/24/dced0a12-6d65-11ea-b148-e4ce3fbd85b5_story.html) on Mar 24, 2020.
+</details>
+
+
 ## Mar 26, 2020
 ### US passes 1,000 deaths
 <details>
@@ -632,6 +654,19 @@ Source: [The New York Times](https://www.nytimes.com/2020/04/07/us/politics/coro
   <summary>...</summary>
 
 US has 10,989 deaths and 368,196 cases in total.
+
+Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+</details>
+
+
+## Apr 12, 2020
+### Easter Sunday: US passes 20,000 deaths
+<details>
+  <summary>...</summary>
+
+US has 20,608 deaths and 529,951 cases in total.
+  
+  The economy, despite Trump's encouragement on March 24th, was not "raring to go" on this day.
 
 Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
 </details>
