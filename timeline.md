@@ -493,7 +493,8 @@ that we went early we went early we could have had a lot more than that."
   > For decades the @CDCgov looked at, and studied,  its testing system, but did nothing about it. It would always be 
   inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped. President Obama made 
   changes that only complicated things further.....
-  .... Their response to H1N1 Swine Flu was a full scale disaster, with thousands dying, and nothing meaningful done to 
+  
+  > .... Their response to H1N1 Swine Flu was a full scale disaster, with thousands dying, and nothing meaningful done to 
   fix the testing problem, until now. The changes have been made and testing will soon happen on a very large scale 
   basis. All Red Tape has been cut, ready to go!
   
