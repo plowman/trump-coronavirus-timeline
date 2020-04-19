@@ -481,6 +481,32 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+
+### Trump tries to blame Obama for testing problems
+<details>
+  <summary>...</summary>
+
+  Tacitly admitting that there were testing problems, which is a small victory for reality, Trump then tried to shift
+  the blame to his favorite scapegoat, Obama.
+  
+  His full tweet was:
+  > For decades the @CDCgov looked at, and studied,  its testing system, but did nothing about it. It would always be 
+  inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped. President Obama made 
+  changes that only complicated things further.....
+  .... Their response to H1N1 Swine Flu was a full scale disaster, with thousands dying, and nothing meaningful done to 
+  fix the testing problem, until now. The changes have been made and testing will soon happen on a very large scale 
+  basis. All Red Tape has been cut, ready to go!
+  
+  It's true that the CDC under Obama did propose increased oversight of medical testing, but it was just a proposal that
+  was never implemented. 
+  
+  Even if Trump had inherited a CDC that was not prepared, he is in charge of it and can thus direct it to change as he
+  sees fit. The problem is that he didn't move more quickly.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/03/31/everyone-everything-trump-has-blamed-his-coronavirus-response/) on Mar 31, 2020.
+</details>
+
+
 ## Mar 16, 2020
 ### For ventilators, Trump tells governors 'Try getting it yourselves'
 <details>
