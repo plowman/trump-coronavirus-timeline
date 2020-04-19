@@ -798,3 +798,21 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## Apr 18, 2020
+### Trump says there should be consequences if China was 'knowingly responsible'
+<details>
+  <summary>...</summary>
+
+  As usual, this is scary in part because a possible interpretation of "knowingly responsible" is that they did it on
+  purpose, which is of course nonsense.
+  
+  The full quote is this:
+  > Reporter: "do you think that there should be some consequences if in the end you know China was responsible for all 
+  of this"
+  Trump: well if they were knowingly responsible, certainly. If they did if, it was a mistake, a mistake is a mistake, 
+  but if they were knowingly responsible yeah then there should be consequences.
+
+  Source: [NPR](https://www.npr.org/2020/04/18/837545140/trump-to-hold-briefing-on-coronavirus-developments) on Apr 18, 2020.
+</details>
+
+
