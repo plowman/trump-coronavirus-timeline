@@ -730,6 +730,26 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+
+### Trump says states 'can’t do anything' to open up without his approval 
+<details>
+  <summary>...</summary>
+
+  After weeks of telling states to fend for themselves, Trump has now decided that it is in the constitution for him to 
+  be the hero that opens states up again.
+  
+  From the article:
+  > “The president of the United States calls the shots,” he said at his evening news briefing. “They can’t do anything 
+  without the approval of the president of the United States.”
+
+  > Asked what provisions of the Constitution gave him the power to override the states if they wanted to remain closed,
+  he said, “Numerous provisions,” without naming any. “When somebody’s the president of the United States, the authority
+  is total.”
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/13/us/politics/trump-coronavirus-governors.html) on Apr 13, 2020.
+</details>
+
+
 ## Apr 14, 2020
 ### Trump announces he will halt WHO funding
 <details>
@@ -740,6 +760,41 @@ that we went early we went early we could have had a lot more than that."
   “So much death has been caused by their mistakes,” Trump said, repeating the criticisms of his own administration.
 
   Source: [The New York Times](https://www.nytimes.com/2020/04/14/us/politics/coronavirus-trump-who-funding.html) on Apr 14, 2020.
+</details>
+
+
+## Apr 16, 2020
+### Trump releases guidelines on reopening country: states decide what to do on their own
+<details>
+  <summary>...</summary>
+
+  Switching back again to his previous stance, Trump agrees once more that states are in charge of how they open.
+  
+  To this end, he released a set of nonbinding guidelines that basically tell states to open things gradually based on
+  how bad things are in each state.
+  
+  Determined to say as little as possible, he said states could start reopening as soon as May 1st or earlier. Which is
+  a verbose way of saying they can open "at some point".
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/16/us/politics/coronavirus-trump-guidelines.html) on Apr 16, 2020.
+</details>
+
+
+## Apr 17, 2020
+### Trump encourages protests against states deciding what to do on their own
+<details>
+  <summary>...</summary>
+
+  After releasing formal guidelines that say states get to decide on their own when to open, Trump's next logical step
+  was then to encourage protests of states doing exactly that. He doesn't want the blame for opening states early, nor
+  does he want the blame for the economy if it's still on the rocks in November, so the best he can do is complain but
+  not do anything.
+  
+  He tweeted, "LIBERATE VIRGINIA, and save your great 2nd Amendment. It is under siege!", "LIBERATE MINNESOTA!", and 
+  "LIBERATE MICHIGAN!" while small protests took place in each of those states against stay at home orders. It will not
+  surprise you to learn that those three states all have Democratic governors.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/17/us/politics/trump-coronavirus-governors.html) on Apr 17, 2020.
 </details>
 
 

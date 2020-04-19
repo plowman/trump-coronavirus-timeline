@@ -25,3 +25,30 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-04-13",
+  title="Trump says states 'can’t do anything' to open up without his approval ",
+  description="""
+  After weeks of telling states to fend for themselves, Trump has now decided that it is in the constitution for him to 
+  be the hero that opens states up again.
+  
+  From the article:
+  > “The president of the United States calls the shots,” he said at his evening news briefing. “They can’t do anything 
+  without the approval of the president of the United States.”
+
+  > Asked what provisions of the Constitution gave him the power to override the states if they wanted to remain closed,
+  he said, “Numerous provisions,” without naming any. “When somebody’s the president of the United States, the authority
+  is total.”
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Trump Leaps to Call Shots on Reopening Nation, Setting Up Standoff With Governors",
+      publication="The New York Times",
+      published="2020-04-13",
+      url="https://www.nytimes.com/2020/04/13/us/politics/trump-coronavirus-governors.html",
+      article_copy="sources/2020-04-13-new-york-times-trump-total-authority.pdf",
+    ),
+  ],
+)
