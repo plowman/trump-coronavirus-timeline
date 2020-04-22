@@ -74,6 +74,39 @@
 </details>
 
 
+## Jan 5, 2020
+### WHO notifies the world of a 'Pneumonia of Unknown Cause'
+<details>
+  <summary>...</summary>
+
+  This is the first warning the WHO sent about the novel coronavirus.
+
+  Source: [WHO](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) on Jan 5, 2020.
+</details>
+
+
+## Jan 12, 2020
+### WHO notifies the world of a 'novel coronavirus' and its first death
+<details>
+  <summary>...</summary>
+
+  This is the second serious warning the WHO sent out, and the first time the WHO was sure it was a new coronavirus.
+
+  Source: [WHO](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/) on Jan 12, 2020.
+</details>
+
+
+
+### China shares coronavirus genetic sequence
+<details>
+  <summary>...</summary>
+
+  Starting at this point, countries could start creating tests for the virus.
+
+  Source: [WHO](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/) on Jan 12, 2020.
+</details>
+
+
 ## Jan 22, 2020
 ### Trump's first comments on Coronavirus: 'we have it totally under control. ... It’s going to be just fine.'
 <details>
