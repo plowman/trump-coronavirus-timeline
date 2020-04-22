@@ -493,8 +493,7 @@ that we went early we went early we could have had a lot more than that."
   > For decades the @CDCgov looked at, and studied,  its testing system, but did nothing about it. It would always be 
   inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped. President Obama made 
   changes that only complicated things further.....
-  
-  > .... Their response to H1N1 Swine Flu was a full scale disaster, with thousands dying, and nothing meaningful done to 
+  .... Their response to H1N1 Swine Flu was a full scale disaster, with thousands dying, and nothing meaningful done to 
   fix the testing problem, until now. The changes have been made and testing will soon happen on a very large scale 
   basis. All Red Tape has been cut, ready to go!
   
@@ -532,6 +531,22 @@ that we went early we went early we could have had a lot more than that."
   US has 108 deaths and 6,427 cases in total.
 
   Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+</details>
+
+
+
+### US still has not filled our WHO Executive Board seat
+<details>
+  <summary>...</summary>
+
+  The White House renewed its nomination of Brett Giroir to the WHO Executive Board, which has been without a US 
+  representative since Trump took office. Of the 34 member states on the Executive Board, the US seat is the only empty 
+  one.
+  
+  Why it matters: Despite complaining of the WHO shortcomings, Trump has not done even the bare minimum to better 
+  utilize the WHO as a resource.
+
+  Source: [Vice](https://www.vice.com/en_us/article/z3ba5j/trump-is-scapegoating-the-who-but-failed-to-confirm-a-us-representative-for-3-years) on Apr 20, 2020.
 </details>
 
 
