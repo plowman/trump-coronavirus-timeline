@@ -7,7 +7,6 @@ Event(
   Although we did not know it at the time, we would later learn that the CDC tests suffered from a technical flaw and 
   didn't produce reliable results.
   """,
-  people=[],
   sources=[
     Source(
       title="Shipping of CDC 2019 Novel Coronavirus Diagnostic Test Kits Begins",

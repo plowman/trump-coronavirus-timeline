@@ -222,6 +222,25 @@
 </details>
 
 
+## Feb 6, 2020
+### First death in the US from coronavirus, unknown in cause until later
+<details>
+  <summary>...</summary>
+
+  Although we didn't know it at the time, on Feb 6th, the first person died in the US of coronavirus. The person died in
+  their home. It wasn't until April that we confirmed coronavirus was to blame.
+
+  From the article,
+  > The county’s medical examiner-coroner said that autopsies of two people who died at their homes on Feb. 6 and 
+  Feb. 17 showed that the individuals were infected with the virus.
+  
+  Why it matters: if we had spun up testing sooner or started doing better tracking of Americans returning from China,
+  we could have known this was happening so much sooner.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html) on Apr 22, 2020.
+</details>
+
+
 ## Feb 10, 2020
 ### Trump proposes 16 percent cut to CDC
 <details>
@@ -406,17 +425,6 @@ that we went early we went early we could have had a lot more than that."
   not the WHO because at this point the WHO has sent tests to 60 countries.
 
   Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
-</details>
-
-
-## Mar 1, 2020
-### US has first death
-<details>
-  <summary>...</summary>
-
-  US has 1 death and 69 cases.
-
-  Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
 </details>
 
 
