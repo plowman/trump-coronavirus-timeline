@@ -42,3 +42,11 @@ ECDC_CASES_AND_DEATHS_BY_COUNTRY = Source(
   url="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide",
   article_copy="sources/2020-04-12-ecdc-covid-19-geographical-distribution.xlsx"
 )
+
+THE_LOST_MONTH = Source(
+  title="The Lost Month: How a Failure to Test Blinded the U.S. to Covid-19",
+  publication="The New York Times",
+  published="2020-03-28",
+  url="https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html",
+  article_copy="sources/2020-03-28-new-york-time-the-lost-month.pdf",
+)

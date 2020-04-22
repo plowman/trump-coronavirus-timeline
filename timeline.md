@@ -74,6 +74,18 @@
 </details>
 
 
+## Jan 3, 2020
+### CDC director notifies HHS secretary of how terrified China CDC director is
+<details>
+  <summary>...</summary>
+
+  CDC director Redfield received a call from the where the China CDC director burst out crying because of how bad things
+  were getting in Wuhan. Shortly after, he notified the HHS Secretary, Alex Azar, about the serverity of the outbreak.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html) on Mar 28, 2020.
+</details>
+
+
 ## Jan 5, 2020
 ### WHO notifies the world of a 'Pneumonia of Unknown Cause'
 <details>
@@ -107,6 +119,21 @@
 </details>
 
 
+## Jan 18, 2020
+### HHS Secretary Azar talks to Trump about coronavirus, Trump asks about the vaping ban
+<details>
+  <summary>...</summary>
+
+  Despite earlier efforts, this is the first time he was able to speak with Trump.
+  
+  From the article,
+  > When he reached Trump by phone, the president interjected to ask about vaping and when flavored vaping products 
+  would be back on the market, the senior administration officials said.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+</details>
+
+
 ## Jan 22, 2020
 ### Trump's first comments on Coronavirus: 'we have it totally under control. ... It’s going to be just fine.'
 <details>
@@ -124,7 +151,7 @@
 
 
 ## Jan 29, 2020
-### Navarro sends memo warning 543,000 Americans could die
+### Trump is notified of Navarro memo warning 543,000 Americans could die
 <details>
   <summary>...</summary>
 
@@ -132,13 +159,25 @@
   economic costs. He specifically warns that an outbreak in the US could cost the economy up to $5.7 Trillion and as 
   many as 543,000 people could die.
 
-  It is unclear whether the president ever read this memo.
+  It is unclear whether the president ever read this memo, though he was notified of it.
 
   Source: [Axios](https://www.axios.com/exclusive-navarro-deaths-coronavirus-memos-january-da3f08fb-dce1-4f69-89b5-ea048f8382a9.html) on Apr 7, 2020.
 </details>
 
 
 ## Jan 30, 2020
+### Azar tells Trump of the potential for a pandemic
+<details>
+  <summary>...</summary>
+
+  HHS Secretary Alex Azar once again tries to warn the president that this could get really bad. The president responded
+  that Azar was being alarmist.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/11/us/politics/coronavirus-trump-response.html) on Apr 11, 2020.
+</details>
+
+
+
 ### Trump says 'We think it’s going to have a very good ending for it. So that I can assure you.'
 <details>
   <summary>...</summary>
