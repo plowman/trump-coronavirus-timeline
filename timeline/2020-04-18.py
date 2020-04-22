@@ -7,11 +7,12 @@ Event(
   As usual, this is scary in part because a possible interpretation of "knowingly responsible" is that they did it on
   purpose, which is of course nonsense.
   
-  The full quote is this:
+  The full exchange is this:
   > Reporter: "do you think that there should be some consequences if in the end you know China was responsible for all 
   of this"
-  Trump: well if they were knowingly responsible, certainly. If they did if, it was a mistake, a mistake is a mistake, 
-  but if they were knowingly responsible yeah then there should be consequences.
+
+  > Trump: "well if they were knowingly responsible, certainly. If they did if, it was a mistake, a mistake is a 
+  mistake, but if they were knowingly responsible yeah then there should be consequences."
   """,
   people=["Trump"],
   sources=[

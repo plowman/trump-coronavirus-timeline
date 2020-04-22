@@ -920,13 +920,35 @@ that we went early we went early we could have had a lot more than that."
   As usual, this is scary in part because a possible interpretation of "knowingly responsible" is that they did it on
   purpose, which is of course nonsense.
   
-  The full quote is this:
+  The full exchange is this:
   > Reporter: "do you think that there should be some consequences if in the end you know China was responsible for all 
   of this"
-  Trump: well if they were knowingly responsible, certainly. If they did if, it was a mistake, a mistake is a mistake, 
-  but if they were knowingly responsible yeah then there should be consequences.
+
+  > Trump: "well if they were knowingly responsible, certainly. If they did if, it was a mistake, a mistake is a 
+  mistake, but if they were knowingly responsible yeah then there should be consequences."
 
   Source: [NPR](https://www.npr.org/2020/04/18/837545140/trump-to-hold-briefing-on-coronavirus-developments) on Apr 18, 2020.
+</details>
+
+
+## Apr 21, 2020
+### Trump announces ban on green cards, backs down from broader immigration ban
+<details>
+  <summary>...</summary>
+
+  Trump said he would suspend issuing new green cards for 60 days. Earlier he had threatened a more complete immigration
+  ban.
+  
+  His quote on this is:
+  > “By pausing immigration, we will help put unemployed Americans first in line for jobs as America reopens. So 
+  important, It would be wrong and unjust for Americans laid off by the virus to be replaced with new immigrant labor 
+  flown in from abroad. We must first take care of the American worker.”
+  
+  Why it matters: immigration has nothing to do with the coronavirus. And slowing down immigration won't help the 
+  economy recover any faster. Trump is still fishing for things he can do to make him seem like the economic failures 
+  are not his fault. Shifting blame to immigrants has always been part of his playbook.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/21/us/politics/coronavirus-trump-immigration-ban.html) on Apr 21, 2020.
 </details>
 
 
