@@ -976,3 +976,26 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## Apr 22, 2020
+### Vaccine expert removed from HHS post for questioning hydroxychloroquine
+<details>
+  <summary>...</summary>
+
+  From the article,
+  > Dr. Rick Bright was abruptly dismissed this week as the director of the Department of Health and Human Services’ 
+  Biomedical Advanced Research and Development Authority, or BARDA, and removed as the deputy assistant secretary for 
+  preparedness and response.
+  
+  His quote brings the real fire:
+  > “I believe this transfer was in response to my insistence that the government invest the billions of dollars 
+  allocated by Congress to address the Covid-19 pandemic into safe and scientifically vetted solutions, and not in 
+  drugs, vaccines and other technologies that lack scientific merit,” he said in his statement. “I am speaking out 
+  because to combat this deadly virus, science — not politics or cronyism — has to lead the way.”
+  
+  Why it matters: especially with growing evidence that hydroxychloroquine doesn't work, he is one more example of how
+  Trump would rather slow down vaccine development than have anyone question him.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html#link-48b66328) on Apr 22, 2020.
+</details>
+
+
