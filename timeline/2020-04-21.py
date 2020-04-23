@@ -27,3 +27,32 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-04-21",
+  title="368 patient study shows patients taking Hydroxychloroquine dying at higher rates",
+  description="""
+  In fact, the death rate was higher in patients treated with Hydroxychloroquine (HC) even though the rate of 
+  ventilation was the same. This is a pretty big hint that even among patients who have a very serious case of covid,
+  taking HC makes things worse.
+
+  Why it matters: after weeks of pushing HC without any evidence, Trump will now never mention it again. But it's 
+  important that we remember this: if he hadn't pushed it so hard then fewer people would have died.
+  """,
+  sources=[
+    Source(
+      title="New U.S. Treatment Guidelines for Covid-19 Don’t See Much Progress",
+      publication="New York Times",
+      published="2020-04-21",
+      url="https://www.nytimes.com/2020/04/21/health/nih-covid-19-treatment.html",
+      article_copy="sources/2020-04-21-new-york-times-nih-covid19-treatment.pdf",
+    ),
+    Source(
+      title="Outcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19",
+      publication="MedRxiv",
+      published="2020-04-21",
+      url="https://www.medrxiv.org/content/10.1101/2020.04.16.20065920v1",
+      article_copy="sources/2020-04-21-medrxiv-hydroxychloroquine-study-results.pdf",
+    ),
+  ],
+)
