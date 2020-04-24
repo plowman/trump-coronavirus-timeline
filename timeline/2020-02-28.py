@@ -3,7 +3,8 @@ from timeline.shared_sources import COMPLETE_LIST_OF_TRUMP_DOWNPLAYING_CORONAVIR
 
 Event(
   date="2020-02-28",
-  title="Trump says \"Democrats are politicizing the Coronavirus\", says, \"this is their new hoax\".",
+  title="Trump holds rally in South Carolina, says \"Democrats are politicizing the Coronavirus\", "
+        "\"this is their new hoax\".",
   description="""
 A lot of Trumpkins are debating this quote now, but he clearly says the coronavirus is "their new hoax" in the same way
 that impeachment was a hoax.

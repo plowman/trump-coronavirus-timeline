@@ -50,3 +50,11 @@ THE_LOST_MONTH = Source(
   url="https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html",
   article_copy="sources/2020-03-28-new-york-time-the-lost-month.pdf",
 )
+
+WASHINGTON_POST_WHAT_TRUMP_DID_IN_FEBRUARY = Source(
+  title="What Trump did about coronavirus in February",
+  publication="The Washington Post",
+  published="2020-04-20",
+  url="https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/",
+  article_copy="sources/2020-04-20-washington-post-what-trump-did-in-february.pdf",
+)

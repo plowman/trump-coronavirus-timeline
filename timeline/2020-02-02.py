@@ -1,4 +1,5 @@
 from models import Event, Source
+from timeline.shared_sources import WASHINGTON_POST_WHAT_TRUMP_DID_IN_FEBRUARY
 
 Event(
   date="2020-02-02",
@@ -34,5 +35,18 @@ Event(
       url="https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/",
       article_copy="sources/2020-01-31-white-house-china-ban-announcement.pdf",
     ),
+  ],
+)
+
+Event(
+  date="2020-02-02",
+  title="Trump plays golf again, says he 'shut it down coming in from China'",
+  description="""
+  After playing golf, he sat for a classic Hannity softball where he added, “Well, we pretty much shut it down coming in
+  from China,”
+  """,
+  people=["Trump"],
+  sources=[
+    WASHINGTON_POST_WHAT_TRUMP_DID_IN_FEBRUARY,
   ],
 )

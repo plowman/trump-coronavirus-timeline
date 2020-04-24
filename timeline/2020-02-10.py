@@ -1,5 +1,6 @@
 from models import Event, Source
-from timeline.shared_sources import TRUMP_CORONAVIRUS_TIMELINE_INCREASINGLY_DAMNING
+from timeline.shared_sources import TRUMP_CORONAVIRUS_TIMELINE_INCREASINGLY_DAMNING, \
+  WASHINGTON_POST_WHAT_TRUMP_DID_IN_FEBRUARY
 
 Event(
   date="2020-02-10",
@@ -30,5 +31,21 @@ Event(
   people=["Trump"],
   sources=[
     TRUMP_CORONAVIRUS_TIMELINE_INCREASINGLY_DAMNING,
+  ],
+)
+
+Event(
+  date="2020-02-10",
+  title="Trump says virus will die in April from 'the hotter weather'",
+  description="""
+  His quote was:
+  > "You know in April, supposedly, it dies with the hotter weather. And that's a beautiful date to look forward to."
+  
+  Why it matters: this is yet another example of Trump saying we don't have to worry about it because it will go away on
+  its own.
+  """,
+  people=["Trump"],
+  sources=[
+    WASHINGTON_POST_WHAT_TRUMP_DID_IN_FEBRUARY,
   ],
 )

@@ -188,6 +188,17 @@
 </details>
 
 
+## Feb 1, 2020
+### Trump plays golf at Mar-a-Lago
+<details>
+  <summary>...</summary>
+
+  In his defense, since the virus was going to go away on its own, there's not much he could do anyway.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
+</details>
+
+
 ## Feb 2, 2020
 ### China travel ban begins, does not change entry for US citizens
 <details>
@@ -207,6 +218,18 @@
     ever followed up.
 
   Source: [The New York Times](https://www.nytimes.com/2020/04/04/us/coronavirus-china-travel-restrictions.html) on Apr 4, 2020.
+</details>
+
+
+
+### Trump plays golf again, says he 'shut it down coming in from China'
+<details>
+  <summary>...</summary>
+
+  After playing golf, he sat for a classic Hannity softball where he added, “Well, we pretty much shut it down coming in
+  from China,”
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
 </details>
 
 
@@ -264,6 +287,21 @@
 </details>
 
 
+
+### Trump says virus will die in April from 'the hotter weather'
+<details>
+  <summary>...</summary>
+
+  His quote was:
+  > "You know in April, supposedly, it dies with the hotter weather. And that's a beautiful date to look forward to."
+  
+  Why it matters: this is yet another example of Trump saying we don't have to worry about it because it will go away on
+  its own.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
+</details>
+
+
 ## Feb 12, 2020
 ### CDC admits its testing kits are flawed
 <details>
@@ -286,6 +324,39 @@
   out fine.”
 
   Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/07/timeline-trumps-coronavirus-response-is-increasingly-damning/) on Apr 7, 2020.
+</details>
+
+
+
+### Trump holds a campaign rally in Phoenix
+<details>
+  <summary>...</summary>
+
+  He does not mention the virus.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
+</details>
+
+
+## Feb 20, 2020
+### Trump holds campaign rally in Colorado
+<details>
+  <summary>...</summary>
+
+  He does not mention the virus.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
+</details>
+
+
+## Feb 21, 2020
+### Trump holds campaign rally in Las Vegas
+<details>
+  <summary>...</summary>
+
+  He does not mention the virus.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
 </details>
 
 
@@ -351,7 +422,7 @@
 
 
 ## Feb 26, 2020
-### Trump predicts we'll covid cases within a couple days are 'going to be down to close to zero'
+### Trump predicts covid cases within a couple days are 'going to be down to close to zero'
 <details>
   <summary>...</summary>
 
@@ -376,7 +447,7 @@
 
 
 ## Feb 28, 2020
-### Trump says "Democrats are politicizing the Coronavirus", says, "this is their new hoax".
+### Trump holds rally in South Carolina, says "Democrats are politicizing the Coronavirus", "this is their new hoax".
 <details>
   <summary>...</summary>
 
@@ -425,6 +496,21 @@ that we went early we went early we could have had a lot more than that."
   not the WHO because at this point the WHO has sent tests to 60 countries.
 
   Source: [Politico](https://www.politico.com/news/2020/03/06/coronavirus-testing-failure-123166) on Mar 6, 2020.
+</details>
+
+
+
+### Trump says if you're health and infected, 'you will probably go through a process and you’ll be fine.'
+<details>
+  <summary>...</summary>
+
+  His full quote is:
+  > “Additional cases in the United States are likely, but healthy individuals should be able to fully recover. And we 
+  think that will be a statement that we can make with great surety now that we’ve gotten familiar with this problem. 
+  They should be able to recover should they contract the virus. So, healthy people, if you’re healthy, you will 
+  probably go through a process and you’ll be fine.”
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/04/20/what-trump-did-about-coronavirus-february/) on Apr 20, 2020.
 </details>
 
 
