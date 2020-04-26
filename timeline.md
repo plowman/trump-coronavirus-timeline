@@ -1134,3 +1134,14 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## Apr 25, 2020
+### US passes 50,000 deaths
+<details>
+  <summary>...</summary>
+
+  US has 51,017 deaths and 890,524 cases in total.
+
+  Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+</details>
+
+
