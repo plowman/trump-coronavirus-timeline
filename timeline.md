@@ -514,6 +514,18 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## Mar 2, 2020
+### Trump asks if the flu vaccine might work on coronavirus
+<details>
+  <summary>...</summary>
+
+  “But the same vaccine could not work?” he said. “You take a solid flu vaccine — you don’t think that would have an 
+  impact or much of an impact on corona?”
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/03/03/trumps-baffling-coronavirus-vaccine-event/) on Mar 3, 2020.
+</details>
+
+
 ## Mar 5, 2020
 ### US passes 10 deaths
 <details>
@@ -1102,6 +1114,23 @@ that we went early we went early we could have had a lot more than that."
   Why it matters: Trump just doesn't realize how dumb he is, does he?
 
   Source: [The New York Times](https://www.nytimes.com/2020/04/24/science/sunlight-coronavirus-trump.html) on Apr 24, 2020.
+</details>
+
+
+## Apr 24, 2020
+### Trump claims he was being sarcastic with disinfectant comments
+<details>
+  <summary>...</summary>
+
+  Trump's full quote:
+  > “I was asking a question sarcastically to reporters like you. Disinfectant for doing this, maybe on the hands, would 
+  work. I was asking… when they use disinfectant it goes away in less than a minute. I was asking a very sarcastic 
+  question to reporters in the room about disinfectants on the inside… that was done in a sarcastic way.”
+  
+  Why it matters: Impressively, the lie is even dumber than the original nonsense. Clearly the hope here is that people
+  hear the lie before the truth and can hold onto that sweet sweet particle of deniability.
+
+  Source: [Fox News](https://www.foxnews.com/politics/trump-claims-he-was-being-sarcastic-about-disinfectant-comments) on Apr 24, 2020.
 </details>
 
 
