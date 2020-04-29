@@ -1018,6 +1018,25 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+
+### Trump commencement will force 1,000 West Point cadets back to New York
+<details>
+  <summary>...</summary>
+
+  Trump surprised the West Point administration on April 17th by announcing that he would be giving the commencement 
+  speech this year in person. At that point the West Point staff wasn't sure if there would even be a graduation this 
+  year.
+
+  Commencement will take place on June 13th. The 1,000 seniors will have to return to New York from their homes on May 
+  31st and quarantine for the 14 days before graduation. They will have to isolate in their rooms for those two weeks.
+
+  Why it matters: Trump has decided to drag a thousand soldiers and untold hundreds of staff members back to the 
+  epicenter of the outbreak so that he can feel like a big deal.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/04/24/us/politics/coronavirus-trump-west-point.html) on Apr 24, 2020.
+</details>
+
+
 ## Apr 18, 2020
 ### Trump says there should be consequences if China was 'knowingly responsible'
 <details>
@@ -1142,6 +1161,27 @@ that we went early we went early we could have had a lot more than that."
   US has 51,017 deaths and 890,524 cases in total.
 
   Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+</details>
+
+
+## Apr 28, 2020
+### Trump says he loves Diamond and Silk, who suggested 5G was infecting people with coronavirus
+<details>
+  <summary>...</summary>
+
+  Trump tweeted, after Fox News apparently dropped them as hosts:
+  > "But I love Diamond & Silk, and so do millions of people!"
+  
+  Some quotes from the duo include:
+  > “Is this being deliberately spread? Look, I’m not being a conspiracy theorist, this is real, but I’m asking my own 
+  questions. What the hell is going on?"
+  
+  > "Is this a pandemic, or was it a plandemic? Inquiring minds want to know."
+  
+  > "So I said that to say this: In each of these places where these hospitals are being built, I want to know how many 
+  5G towers are in those places."
+
+  Source: [The Daily Beast](https://www.thedailybeast.com/fox-news-cuts-ties-with-diamond-and-silk) on Apr 27, 2020.
 </details>
 
 
