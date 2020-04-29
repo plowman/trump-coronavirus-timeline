@@ -22,7 +22,7 @@ Event(
 
 Event(
   date="2020-02-29",
-  title="Trump says if you're health and infected, 'you will probably go through a process and you’ll be fine.'",
+  title="Trump says if you're healthy and infected, 'you will probably go through a process and you’ll be fine.'",
   description="""
   His full quote is:
   > “Additional cases in the United States are likely, but healthy individuals should be able to fully recover. And we 

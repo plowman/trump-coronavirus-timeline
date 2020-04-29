@@ -500,7 +500,7 @@ that we went early we went early we could have had a lot more than that."
 
 
 
-### Trump says if you're health and infected, 'you will probably go through a process and you’ll be fine.'
+### Trump says if you're healthy and infected, 'you will probably go through a process and you’ll be fine.'
 <details>
   <summary>...</summary>
 
@@ -1169,7 +1169,7 @@ that we went early we went early we could have had a lot more than that."
 <details>
   <summary>...</summary>
 
-  Trump tweeted, after Fox News apparently dropped them as hosts:
+  Trump tweeted, after Fox News dropped them as hosts:
   > "But I love Diamond & Silk, and so do millions of people!"
   
   Some quotes from the duo include:
@@ -1180,6 +1180,8 @@ that we went early we went early we could have had a lot more than that."
   
   > "So I said that to say this: In each of these places where these hospitals are being built, I want to know how many 
   5G towers are in those places."
+  
+  Why it matters: Amplifying these people is also amplifying their nonsense.
 
   Source: [The Daily Beast](https://www.thedailybeast.com/fox-news-cuts-ties-with-diamond-and-silk) on Apr 27, 2020.
 </details>
