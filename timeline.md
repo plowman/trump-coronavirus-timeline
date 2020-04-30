@@ -780,6 +780,27 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## Mar 27, 2020
+### Trump says if governors "don’t treat you right, I don’t call."
+<details>
+  <summary>...</summary>
+
+  He said "If they don’t treat you right, I don’t call."
+  
+  Here is the full exchange:
+  > [Pence] calls all the governors.  I tell him — I mean, I’m a different type of person — I say, “Mike, don’t call the 
+  governor of Washington.  You’re wasting your time with him.  Don’t call the woman in Michigan.”  All — it doesn’t make
+  any difference what happens —
+
+  > Q You don’t want him to call the governor of Washington?
+
+  > THE PRESIDENT:  No, no.  You know what I say?  If they don’t treat you right, I don’t call.  He’s a different type 
+  of person.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/03/30/opinion/trump-federal-aid-coronavirus.html) on Mar 30, 2020.
+</details>
+
+
 ## Mar 29, 2020
 ### Trump accuses hospitals of stealing masks
 <details>
