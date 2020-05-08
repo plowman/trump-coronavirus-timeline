@@ -24,3 +24,29 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-05-07",
+  title="Trump valet tests positive for coronavirus",
+  description="""
+  In the continued comedy of errors that is Trump failing to take this seriously until it affects him personally, one of
+  the military personal in daily close contact with Trump has tested positive for coronavirus. From the article, "The 
+  infected staffer is one of Trump’s personal valets, the military staff members who sometimes serve meals and look 
+  after personal needs of the president."
+  
+  In response he has increased testing from once per week to once per day. 
+  
+  Why it matters: Trump is not going to take this seriously until he gets it personally, so I guess that's one way this
+  could end up being a good thing.
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Trump valet tests positive for coronavirus, sparking fear of West Wing spread",
+      publication="The Washington Post",
+      published="2020-05-07",
+      url="https://www.washingtonpost.com/politics/trump-valet-tests-positive-for-conronavirus-sparking-fear-of-west-wing-spread/2020/05/07/c6b6ce82-9082-11ea-a9c0-73b93422d691_story.html",
+      article_copy="sources/2020-05-07-the-washington-post-trump-valet-tests-positive-for-coronavirus-sparking-fear-of-west-wing-spread.pdf",
+    ),
+  ],
+)
