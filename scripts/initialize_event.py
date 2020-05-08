@@ -71,11 +71,20 @@ def initialize_event(url):
       print(f"Could not find date in url: {url}")
       return
     year, month, day = match.groups()
-    published = f"{year}-{month}-{day}"
+
+  elif url.startswith("https://www.washingtonpost.com"):
+    publication = "The Washington Post"
+    match = re.search(r"/([0-9]{4})/([0-9]{2})/([0-9]{2})/", url)
+    if not match:
+      print(f"Could not find date in url: {url}")
+      return
+    year, month, day = match.groups()
+
   else:
     print(f"Not sure how to parse publication: {url}")
     return
 
+  published = f"{year}-{month}-{day}"
   title = get_title(url)
   pdf_path = save_url_as_pdf(url, publication, title, published)
 
@@ -105,4 +114,4 @@ Event(
 
 
 if __name__ == "__main__":
-  initialize_event("https://www.nytimes.com/2020/05/07/us/politics/trump-cdc.html")
+  initialize_event("https://www.washingtonpost.com/politics/trump-valet-tests-positive-for-conronavirus-sparking-fear-of-west-wing-spread/2020/05/07/c6b6ce82-9082-11ea-a9c0-73b93422d691_story.html")
