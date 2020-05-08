@@ -1281,6 +1281,22 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## May 6, 2020
+### Trump has begun questioning accuracy of death count in private
+<details>
+  <summary>...</summary>
+
+  From the article:
+  > President Trump has complained to advisers about the way coronavirus deaths are being calculated, suggesting the 
+  real numbers are actually lower — and a number of his senior aides share this view, according to sources with direct 
+  knowledge.
+  
+  Why it matters: The only way not to look bad at this point, Trump thinks, is if the dead people... maybe aren't dead?
+
+  Source: [Axios](https://www.axios.com/trump-coronavirus-death-toll-d8ba60a4-316b-4d1e-8595-74970c15fb34.html) on May 6, 2020.
+</details>
+
+
 ## May 7, 2020
 ### Trump blocks CDC reopening guidance over fears it will harm the economy
 <details>
