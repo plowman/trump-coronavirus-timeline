@@ -3,9 +3,7 @@ import importlib
 import re
 
 from models import ALL_EVENTS
-
-SCRIPTS_FOLDER = os.path.dirname(__file__)
-PROJECT_FOLDER = os.path.dirname(SCRIPTS_FOLDER)
+from scripts.shared import PROJECT_FOLDER
 
 DATE_REGEX = re.compile(r'date="([0-9]{4}-[0-9]{2}-[0-9]{2})"')
 

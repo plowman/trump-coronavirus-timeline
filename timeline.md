@@ -1249,7 +1249,8 @@ that we went early we went early we could have had a lot more than that."
   country.  And the number one complaint from those hospitals were severe shortages of testing supplies and a really 
   long wait time.
   
-  > THE PRESIDENT:  It’s just wrong.  Did I hear the word “inspector general”?  Really?  It’s wrong.  And they’ll talk to you about it.  It’s wrong.
+  > THE PRESIDENT:  It’s just wrong.  Did I hear the word “inspector general”?  Really?  It’s wrong.  And they’ll talk 
+  to you about it.  It’s wrong.
   
   > Reporter: But this is your own government.
   
@@ -1258,6 +1259,42 @@ that we went early we went early we could have had a lot more than that."
   Why it matters: Trump doesn't care about fixing the problems. He only cares about silencing the criticism.
 
   Source: [The New York Times](https://www.nytimes.com/2020/05/01/us/politics/trump-health-department-watchdog.html) on May 1, 2020.
+</details>
+
+
+## May 5, 2020
+### Former HHS official says Trump pushed him to award contracts to cronies
+<details>
+  <summary>...</summary>
+
+  Rick Bright, who was recently fired for his anti-hydroxychloroquine stance, is back, claiming he was pressured to 
+  award contracts to Trump cronies during his tenure at the HHS.
+
+  From the article:
+  > Rick Bright, the ousted chief of the Biomedical Advanced Research and Development Agency, said he was pressured to 
+  steer millions of dollars to the clients of a well-connected consultant.
+  
+  Why it matters: When we award contracts to connected companies instead of the best companies, it makes our response 
+  to this kind of crisis worse.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/05/05/us/politics/rick-bright-coronavirus-whistleblower.html) on May 5, 2020.
+</details>
+
+
+## May 7, 2020
+### Trump blocks CDC reopening guidance over fears it will harm the economy
+<details>
+  <summary>...</summary>
+
+  From the article:
+  > White House and other administration officials rejected the recommendations over concerns that they were overly 
+  prescriptive, infringed on religious rights and risked further damaging an economy that Mr. Trump was banking on to 
+  recover quickly.
+  
+  Why it matters: It's nice that Trump went through this long process of formally rejecting expert health advice just to
+  remind us that he doesn't give a shit.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/05/07/us/politics/trump-cdc.html) on May 7, 2020.
 </details>
 
 
