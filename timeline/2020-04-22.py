@@ -18,7 +18,7 @@ Event(
   Why it matters: especially with growing evidence that hydroxychloroquine doesn't work, he is one more example of how
   Trump would rather slow down vaccine development than have anyone question him.
   """,
-  people=["Dr. Rick Bright"],
+  people=["Rick Bright"],
   orgs=["HHS"],
   sources=[
     Source(
