@@ -1297,6 +1297,17 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+
+### Trump says he will dissolve the coronavirus task force
+<details>
+  <summary>...</summary>
+
+  > “We will have something in a different form,”
+
+  Source: [The New York Times](https://www.nytimes.com/2020/05/07/us/politics/coronavirus-task-force-trump.html) on May 7, 2020.
+</details>
+
+
 ## May 7, 2020
 ### Trump blocks CDC reopening guidance over fears it will harm the economy
 <details>
@@ -1330,6 +1341,19 @@ that we went early we went early we could have had a lot more than that."
   could end up being a good thing.
 
   Source: [The Washington Post](https://www.washingtonpost.com/politics/trump-valet-tests-positive-for-conronavirus-sparking-fear-of-west-wing-spread/2020/05/07/c6b6ce82-9082-11ea-a9c0-73b93422d691_story.html) on May 7, 2020.
+</details>
+
+
+
+### No actually Trump will keep the task force going
+<details>
+  <summary>...</summary>
+
+  > “I thought we could wind it down sooner,” the president told reporters on Wednesday. “But I had no idea how popular 
+  the task force is until actually yesterday when I started talking about winding down. It is appreciated by the 
+  public.”
+
+  Source: [The New York Times](https://www.nytimes.com/2020/05/07/us/politics/coronavirus-task-force-trump.html) on May 7, 2020.
 </details>
 
 

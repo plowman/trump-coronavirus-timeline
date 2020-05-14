@@ -22,3 +22,21 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-05-06",
+  title="Trump says he will dissolve the coronavirus task force",
+  description="""
+  > “We will have something in a different form,”
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Does the Coronavirus Task Force Even Matter for Trump?",
+      publication="The New York Times",
+      published="2020-05-07",
+      url="https://www.nytimes.com/2020/05/07/us/politics/coronavirus-task-force-trump.html",
+      article_copy="sources/2020-05-07-the-new-york-times-does-the-coronavirus-task-force-even-matter-for-trump.pdf",
+    ),
+  ],
+)

@@ -50,3 +50,23 @@ Event(
     ),
   ],
 )
+
+Event(
+  date="2020-05-07",
+  title="No actually Trump will keep the task force going",
+  description="""
+  > “I thought we could wind it down sooner,” the president told reporters on Wednesday. “But I had no idea how popular 
+  the task force is until actually yesterday when I started talking about winding down. It is appreciated by the 
+  public.”
+  """,
+  people=["Trump"],
+  sources=[
+    Source(
+      title="Does the Coronavirus Task Force Even Matter for Trump?",
+      publication="The New York Times",
+      published="2020-05-07",
+      url="https://www.nytimes.com/2020/05/07/us/politics/coronavirus-task-force-trump.html",
+      article_copy="sources/2020-05-07-the-new-york-times-does-the-coronavirus-task-force-even-matter-for-trump.pdf",
+    ),
+  ],
+)
