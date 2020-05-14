@@ -1357,3 +1357,44 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+## May 8, 2020
+### Trump says staff member getting coronavirus is proof more "testing isn’t necessary."
+<details>
+  <summary>...</summary>
+
+  Since they were testing members of the white house weekly and someone still contracted the virus, the genius 
+  conclusion from this is that "testing isn't necessary."
+  
+  Trump's full quote:
+  > “And this is why testing isn’t necessary. We have the best testing in the world, but testing’s not necessarily the 
+  answer because they were testing them.”
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/trump-plays-down-coronavirus-testing-as-us-falls-far-short-of-level-scientists-say-is-needed/2020/05/08/d9241454-913f-11ea-a9c0-73b93422d691_story.html) on May 8, 2020.
+</details>
+
+
+
+### Harvard researchers estimate the US needs to be conducting three times as many tests
+<details>
+  <summary>...</summary>
+
+  From the article:
+  > On Thursday, Harvard University researchers published new estimates, showing that the United States needs to be 
+  conducting at least 900,000 tests daily by May 15.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/trump-plays-down-coronavirus-testing-as-us-falls-far-short-of-level-scientists-say-is-needed/2020/05/08/d9241454-913f-11ea-a9c0-73b93422d691_story.html) on May 8, 2020.
+</details>
+
+
+## May 11, 2020
+### Trump forces everyone at White House to wear a mask, except Trump
+<details>
+  <summary>...</summary>
+
+  Because Trump doesn't understand that masks would also protect him, he has begun a policy requiring all visitors to 
+  the White House to wear masks and excluded himself.
+
+  Source: [The New York Times](https://www.nytimes.com/2020/05/11/us/politics/white-house-masks-trump-coronavirus.html) on May 11, 2020.
+</details>
+
+

@@ -114,4 +114,4 @@ Event(
 
 
 if __name__ == "__main__":
-  initialize_event("https://www.washingtonpost.com/politics/trump-valet-tests-positive-for-conronavirus-sparking-fear-of-west-wing-spread/2020/05/07/c6b6ce82-9082-11ea-a9c0-73b93422d691_story.html")
+  initialize_event("https://www.nytimes.com/2020/05/11/us/politics/white-house-masks-trump-coronavirus.html")
