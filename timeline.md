@@ -1386,6 +1386,17 @@ that we went early we went early we could have had a lot more than that."
 </details>
 
 
+
+### US passes 75,000 deaths
+<details>
+  <summary>...</summary>
+
+  US has 75,670 deaths and 1,256,972 cases in total.
+
+  Source: [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) on Apr 12, 2020.
+</details>
+
+
 ## May 11, 2020
 ### Trump forces everyone at White House to wear a mask, except Trump
 <details>
@@ -1395,6 +1406,23 @@ that we went early we went early we could have had a lot more than that."
   the White House to wear masks and excluded himself.
 
   Source: [The New York Times](https://www.nytimes.com/2020/05/11/us/politics/white-house-masks-trump-coronavirus.html) on May 11, 2020.
+</details>
+
+
+## May 12, 2020
+### Trump holds coronavirus victory event, says "We have met the moment and we have prevailed"
+<details>
+  <summary>...</summary>
+
+  Upon questioning, Trump clarified that we have only prevailed over the testing portion of the "the moment".
+  
+  His full quote of course shows this is nonsense because he doesn't mention tests:
+  > "In every generation through every challenge and hardship and danger, America has risen to the task. We have met the 
+  moment and we have prevailed. Americans do whatever it takes to find solutions, pioneer breakthroughs and harness the 
+  energies we need to achieve a total victory. Day after day we’re making tremendous strides with the dedication of our 
+  doctors and nurses, these are incredible people, these are brave people, these are warriors."
+
+  Source: [The Washington Post](https://www.washingtonpost.com/nation/2020/05/12/trump-meltdown-coronavirus-testing/) on May 12, 2020.
 </details>
 
 

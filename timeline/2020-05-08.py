@@ -1,4 +1,5 @@
 from models import Event, Source
+from timeline.shared_sources import ECDC_CASES_AND_DEATHS_BY_COUNTRY
 
 TRUMP_PLAYS_DOWN_TESTING = Source(
   title="Trump plays down coronavirus testing as U.S. falls far short of level scientists say is needed",
@@ -35,5 +36,16 @@ Event(
   """,
   sources=[
     TRUMP_PLAYS_DOWN_TESTING,
+  ],
+)
+
+Event(
+  date="2020-05-08",
+  title="US passes 75,000 deaths",
+  description="""
+  US has 75,670 deaths and 1,256,972 cases in total.
+  """,
+  sources=[
+    ECDC_CASES_AND_DEATHS_BY_COUNTRY,
   ],
 )
