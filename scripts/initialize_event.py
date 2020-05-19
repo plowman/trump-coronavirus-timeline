@@ -1,6 +1,10 @@
+import json
 import os
 import re
 import subprocess
+
+import iso8601
+import pytz as pytz
 import requests
 from bs4 import BeautifulSoup
 
@@ -49,43 +53,55 @@ def save_url_as_pdf(url, publication, title, published):
   return pdf_path
 
 
-def get_title(url):
+def get_metadata(url):
   """
   Get the metadata title, for example:
   <meta data-rh="true" property="og:title" content="White House Blocks C.D.C. Guidance Over ..."/>
   """
   content = requests.get(url).content
   soup = BeautifulSoup(content, features="html.parser")
-  title = soup.find("meta", attrs={"property": "og:title"}).get("content")
-  return title
+  json_metadata = soup.find("script", attrs={"type": "application/ld+json"})
+  if not json_metadata:
+    raise Exception("WHOOPS no metadata for that URL.")
+
+  metadata_text = json_metadata.string
+  json_metadata = json.loads(metadata_text)
+  for k, v in json_metadata.items():
+    print(f"{k}: {v}")
+
+  published = json_metadata.get("datePublished")
+  if not published:
+    raise Exception(f"No published in metadata: {json_metadata}")
+  published = iso8601.parse_date(published)
+  published = published.astimezone(pytz.timezone("America/New_York"))
+  print(f"published: {published}")
+
+  publication = json_metadata.get("isPartOf").get("name")
+  if not publication:
+    raise Exception(f"No publication in metadata: {json_metadata}")
+  print(f"publisher: {publication}")
+
+  title = json_metadata.get("headline")
+  if not title:
+    raise Exception(f"No title in metadata: {title}")
+  print(f"title: {title}")
+
+  return {
+    "published": published,
+    "title": title,
+    "publication": publication
+  }
 
 
 def initialize_event(url):
   """
   Create the Source for an Event at the given url
   """
-  if url.startswith("https://www.nytimes.com"):
-    publication = "The New York Times"
-    match = re.search(r"https://www\.nytimes\.com/([0-9]{4})/([0-9]{2})/([0-9]{2})", url)
-    if not match:
-      print(f"Could not find date in url: {url}")
-      return
-    year, month, day = match.groups()
-
-  elif url.startswith("https://www.washingtonpost.com"):
-    publication = "The Washington Post"
-    match = re.search(r"/([0-9]{4})/([0-9]{2})/([0-9]{2})/", url)
-    if not match:
-      print(f"Could not find date in url: {url}")
-      return
-    year, month, day = match.groups()
-
-  else:
-    print(f"Not sure how to parse publication: {url}")
-    return
-
-  published = f"{year}-{month}-{day}"
-  title = get_title(url)
+  metadata = get_metadata(url)
+  title = metadata["title"]
+  publication = metadata["publication"]
+  published = metadata["published"]
+  published = published.strftime("%Y-%m-%d")
   pdf_path = save_url_as_pdf(url, publication, title, published)
 
   event_template = f"""
@@ -114,4 +130,5 @@ Event(
 
 
 if __name__ == "__main__":
-  initialize_event("https://www.nytimes.com/2020/05/11/us/politics/white-house-masks-trump-coronavirus.html")
+  initialize_event(
+    "https://www.washingtonpost.com/politics/trump-says-he-is-taking-hydroxychloroquine-to-protect-against-coronavirus-dismissing-safety-concerns/2020/05/18/7b8c928a-9946-11ea-ac72-3841fcc9b35f_story.html")
