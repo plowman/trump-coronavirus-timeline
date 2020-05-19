@@ -150,6 +150,22 @@
 </details>
 
 
+
+### Feds turn down offer from US mask producer to ramp up production
+<details>
+  <summary>...</summary>
+
+  From the article:
+  > Bowen’s medical supply company, Prestige Ameritech, could ramp up production to make an additional 1.7 million N95 
+  masks a week.
+  
+  > “I don’t believe we as an government are anywhere near answering those questions for you yet,” Laura Wolf, director 
+  of the agency’s Division of Critical Infrastructure Protection, responded that same day.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/investigations/in-the-early-days-of-the-pandemic-the-us-government-turned-down-an-offer-to-manufacture-millions-of-n95-masks-in-america/2020/05/09/f76a821e-908a-11ea-a9c0-73b93422d691_story.html) on May 9, 2020.
+</details>
+
+
 ## Jan 29, 2020
 ### Trump is notified of Navarro memo warning 543,000 Americans could die
 <details>
@@ -1423,6 +1439,34 @@ that we went early we went early we could have had a lot more than that."
   doctors and nurses, these are incredible people, these are brave people, these are warriors."
 
   Source: [The Washington Post](https://www.washingtonpost.com/nation/2020/05/12/trump-meltdown-coronavirus-testing/) on May 12, 2020.
+</details>
+
+
+## May 15, 2020
+### Trump fires State Department inspector general
+<details>
+  <summary>...</summary>
+
+  From the article,
+  > A Democratic congressional aide said Linick was looking into Pompeo’s “misuse of a political appointee at the 
+  Department to perform personal tasks for himself and Mrs. Pompeo.”
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/2020/05/16/state-department-inspector-general-fired-democrats-decry-dangerous-pattern-retaliation/) on May 16, 2020.
+</details>
+
+
+## May 18, 2020
+### Trump claims to be taking hydroxychloroquine to protect against coronavirus
+<details>
+  <summary>...</summary>
+
+  He claims he has been since about around May 8th even though the drug has severe side effects.
+  
+  As usual we are given the difficult task of choosing between two options:
+  1. He is lying to us.
+  2. He is really that dumb.
+
+  Source: [The Washington Post](https://www.washingtonpost.com/politics/trump-says-he-is-taking-hydroxychloroquine-to-protect-against-coronavirus-dismissing-safety-concerns/2020/05/18/7b8c928a-9946-11ea-ac72-3841fcc9b35f_story.html) on May 18, 2020.
 </details>
 
 
