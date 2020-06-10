@@ -1,5 +1,18 @@
 # Trump Covid Timeline
 
+## Jan 20, 2017
+### Obama gives Trump administration a pandemic handbook, which they will later ignore
+<details>
+  <summary>...</summary>
+
+  From the article,
+  > The 69-page document, finished in 2016, provided a step by step list of priorities - which were then ignored 
+  by the administration.
+
+  Source: [Politico](https://www.politico.com/news/2020/03/25/trump-coronavirus-national-security-council-149285) on Mar 25, 2020.
+</details>
+
+
 ## Mar 26, 2018
 ### Robert Redfield, who has never worked in government, becomes CDC director
 <details>
@@ -1467,6 +1480,35 @@ that we went early we went early we could have had a lot more than that."
   2. He is really that dumb.
 
   Source: [The Washington Post](https://www.washingtonpost.com/politics/trump-says-he-is-taking-hydroxychloroquine-to-protect-against-coronavirus-dismissing-safety-concerns/2020/05/18/7b8c928a-9946-11ea-ac72-3841fcc9b35f_story.html) on May 18, 2020.
+</details>
+
+
+## May 20, 2020
+### Trump says having most cases is 'a badge of honor'
+<details>
+  <summary>...</summary>
+
+  Unable to actually help the country fight this pandemic, Trump tried instead to selling it as a success in testing
+  effectiveness.
+  
+  “I view it as a badge of honor,” Trump explained. “Really, it’s a badge of honor.”
+  
+  He continued,
+  > “When we have a lot of cases,” Trump continued, “I don’t look at that as a bad thing. I look at that as, in a 
+  certain respect, as being a good thing because it means our testing is much better.”
+
+  Source: [Slate](https://slate.com/news-and-politics/2020/05/trump-worlds-most-coronavirus-cases-badge-of-honor-good-bad-thing.html) on May 20, 2020.
+</details>
+
+
+## May 23, 2020
+### Trump resumes golfing
+<details>
+  <summary>...</summary>
+
+  He lasted 75 days since he last played, a record for him.
+
+  Source: [The New York Times](https://www.nytimes.com/aponline/2020/05/23/us/politics/ap-us-virus-outbreak-trump.html) on May 23, 2020.
 </details>
 
 

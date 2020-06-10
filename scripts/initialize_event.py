@@ -61,11 +61,16 @@ def get_metadata(url):
   content = requests.get(url).content
   soup = BeautifulSoup(content, features="html.parser")
   json_metadata = soup.find("script", attrs={"type": "application/ld+json"})
-  if not json_metadata:
-    raise Exception("WHOOPS no metadata for that URL.")
+  if json_metadata:
+    json_metadata = json.loads(json_metadata.string)
+  else:
+    print("WHOOPS no metadata for that URL.")
+    json_metadata = {
+      "datePublished": "1900-01-01",
+      "isPartOf": {"name": "Unknown Publication"},
+      "headline": "Unknown Headline",
+    }
 
-  metadata_text = json_metadata.string
-  json_metadata = json.loads(metadata_text)
   for k, v in json_metadata.items():
     print(f"{k}: {v}")
 
@@ -76,9 +81,11 @@ def get_metadata(url):
   published = published.astimezone(pytz.timezone("America/New_York"))
   print(f"published: {published}")
 
-  publication = json_metadata.get("isPartOf").get("name")
+  publication = json_metadata.get("isPartOf", {}).get("name")
   if not publication:
-    raise Exception(f"No publication in metadata: {json_metadata}")
+    publication = json_metadata.get("publisher", {}).get("name")
+    if not publication:
+      raise Exception(f"No publication in metadata: {json_metadata}")
   print(f"publisher: {publication}")
 
   title = json_metadata.get("headline")
@@ -131,4 +138,4 @@ Event(
 
 if __name__ == "__main__":
   initialize_event(
-    "https://www.washingtonpost.com/politics/trump-says-he-is-taking-hydroxychloroquine-to-protect-against-coronavirus-dismissing-safety-concerns/2020/05/18/7b8c928a-9946-11ea-ac72-3841fcc9b35f_story.html")
+    "https://www.politico.com/news/2020/03/25/trump-coronavirus-national-security-council-149285")
